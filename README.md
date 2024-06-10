@@ -28,7 +28,7 @@
 
 ## Educação e formação
 - Sou graduado em Administração de Empresas, com MBA em Administração Estratégica. <br>
-Atualmente estou no terceiro período da graduação em Engenharia de Software, e estudo Desenvolvimento Web Full Stack na escola de formação de devs [Rocketseat](https://rocketseat.com.br). 
+Atualmente estou no quarto período da graduação em Engenharia de Software, e estudo Desenvolvimento Web Full Stack na escola de formação de devs [Rocketseat](https://rocketseat.com.br). 
 
 - Estou sempre em busca de grandes desafios e oportunidades de crescimento e aprendizado. Meu objetivo é construir uma carreira sólida como Desenvolvedor de Software, e contribuir para projetos consistentes que impactem positivamente a sociedade. 
 Se você busca alguém que traga essa perspectiva para a equipe, me contate! Adorarei conversar. 
