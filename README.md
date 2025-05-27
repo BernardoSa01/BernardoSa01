@@ -9,6 +9,17 @@
 - Experiência além da codificação: Antes de me aventurar no mundo do desenvolvimento, fui um profissional do Mercado Financeiro durante 10 anos, ocupando a posição de Gerente pleno no segmento de Middle Market (alta renda) de um dos maiores bancos do país, sendo o responsável pela gestão de uma Unidade de Negócios.
 <br>
 
+## 🎓 Formação Acadêmica
+- **Graduação** em Engenharia de Software – *Estácio* (em andamento)
+- **Pós-graduação** em Desenvolvimento Full Stack – *PUC-Rio* (em andamento)
+- **Programa de formação** em Desenvolvimento Web – *Rocketseat*
+- **MBA** em Administração Estratégica – *Estácio* (concluído)
+- **Graduação** em Administração de Empresas – *Estácio* (concluída)
+
+
+---
+
+
 ## Habilidades e Tecnologias
 
 
@@ -23,13 +34,27 @@
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 <br><br>
 
-## Projetos destacados
-- Dê uma olhada no meu [Github](https://github.com/BernardoSa01), cada linha de código mostra um pouco da minha evolução!
-<br><br>
+## 🚀 Projetos em Destaque
 
-## Educação e formação
-- Sou graduado em Administração de Empresas, com MBA em Administração Estratégica. <br>
-Atualmente estou no quinto período da graduação em Engenharia de Software, e curso também Pós-graduação em Desenvolvimento Full-Stack pela PUC - Rio, além de estudar Desenvolvimento Web Full Stack na escola de formação de devs [Rocketseat](https://rocketseat.com.br). 
+- [Rocketnotes - Front-End](https://github.com/BernardoSa01/rocketnotes)  
+  Aplicação React para organização de anotações com tags e responsividade.
+
+- [Rocketnotes - Back-End](https://github.com/BernardoSa01/rocketnotes-backend)  
+  API RESTful completa com Node.js, SQLite, JWT e validação de dados.
+  
+- [RocketMovies - Back-End](https://github.com/BernardoSa01/rocketmovies-backend)  
+  API RESTful para gerenciamento de filmes, notas e tags, com autenticação JWT, criptografia de senhas e rotas protegidas.
+
+
+- [GitFav](https://github.com/BernardoSa01/gitfav)  
+  App que consome a API do GitHub para salvar e gerenciar perfis favoritos.
+
+- [FocusTimer 2.0](https://github.com/BernardoSa01/focustimer2.0)  
+  Temporizador focado na técnica Pomodoro com controles de tempo e som ambiente.
+
+---
+
+
 
 - Estou sempre em busca de grandes desafios e oportunidades de crescimento e aprendizado. Meu objetivo é construir uma carreira sólida como Desenvolvedor de Software, e contribuir para projetos consistentes que impactem positivamente a sociedade. 
 Se você busca alguém que traga essa perspectiva para a equipe, me contate! Adorarei conversar. 
@@ -39,7 +64,7 @@ Se você busca alguém que traga essa perspectiva para a equipe, me contate! Ado
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bernardosa01/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BernardoSa01-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:bernardo_nf@hotmail.com" target="_blank">
