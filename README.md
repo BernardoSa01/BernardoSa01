@@ -6,7 +6,7 @@
 
 - Em processo de transição de carreira, estou focado em expandir minhas habilidades em Desenvolvimento Web e Engenharia de Software, combinando-as com minha sólida base na área de Gestão. 
 
-- Experiência além da codificação: Antes de me aventurar no mundo do desenvolvimento, fui um profissional do Mercado Financeiro durante 10 anos, ocupando a posição de Gerente pleno na área de atacado (alta renda) de um dos maiores bancos do país, sendo o responsável pela gestão de uma Unidade de Negócios.
+- Experiência além da codificação: Antes de me aventurar no mundo do desenvolvimento, fui um profissional do Mercado Financeiro durante 10 anos, ocupando a posição de Gerente pleno no segmento de Middle Market (alta renda) de um dos maiores bancos do país, sendo o responsável pela gestão de uma Unidade de Negócios.
 <br>
 
 ## Habilidades e Tecnologias
@@ -29,7 +29,7 @@
 
 ## Educação e formação
 - Sou graduado em Administração de Empresas, com MBA em Administração Estratégica. <br>
-Atualmente estou no quarto período da graduação em Engenharia de Software, e estudo Desenvolvimento Web Full Stack na escola de formação de devs [Rocketseat](https://rocketseat.com.br). 
+Atualmente estou no quinto período da graduação em Engenharia de Software, e curso também Pós-graduação em Desenvolvimento Full-Stack pela PUC - Rio, além de estudar Desenvolvimento Web Full Stack na escola de formação de devs [Rocketseat](https://rocketseat.com.br). 
 
 - Estou sempre em busca de grandes desafios e oportunidades de crescimento e aprendizado. Meu objetivo é construir uma carreira sólida como Desenvolvedor de Software, e contribuir para projetos consistentes que impactem positivamente a sociedade. 
 Se você busca alguém que traga essa perspectiva para a equipe, me contate! Adorarei conversar. 
