@@ -36,6 +36,9 @@
 
 ## 🚀 Projetos em Destaque
 
+- [Video Manager API](https://github.com/BernardoSa01/Video-Manager-API)
+  API RESTful para gerenciamento de vídeos, desenvolvida com Node.js, Fastify, e PostgreSQL. Permite criar, listar, editar e excluir vídeos.
+
 - [Rocketnotes - Front-End](https://github.com/BernardoSa01/rocketnotes)  
   Aplicação React para organização de anotações com tags e responsividade.
 
@@ -49,8 +52,6 @@
 - [GitFav](https://github.com/BernardoSa01/gitfav)  
   App que consome a API do GitHub para salvar e gerenciar perfis favoritos.
 
-- [FocusTimer 2.0](https://github.com/BernardoSa01/focustimer2.0)  
-  Temporizador focado na técnica Pomodoro com controles de tempo e som ambiente.
 
 ---
 
