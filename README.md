@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim
 
-Atuo como Engenheiro de Software com foco em Site Reliability Engineering (SRE), trabalhando na sustentação e evolução de sistemas em ambiente produtivo.
+Atuo como Engenheiro de Software com foco em Site Reliability Engineering (SRE), trabalhando na sustentação e evolução de sistemas em ambiente produtivo no setor financeiro.
 
 Meu dia a dia envolve análise de métricas, troubleshooting e apoio na evolução de serviços distribuídos, sempre com foco em estabilidade, observabilidade e melhoria contínua.
 
